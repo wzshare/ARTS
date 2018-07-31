@@ -9,5 +9,6 @@
 
 |Month|||||
 |:---:|-|-|-|-|
-|June||[week 24](./2018Week24.md)|[week 25](./2018Week25.md)|[week 26](./2018Week26.md)|
-|July|[week 27](./2018Week27.md)|[week 28](./2018Week28.md)|[week 29](./2018Week29.md)|[week 30](./2018Week30.md)|
+|June||[week 24](./2018/2018Week24.md)|[week 25](./2018/2018Week25.md)|[week 26](./2018/2018Week26.md)|
+|July|[week 27](./2018/2018Week27.md)|[week 28](./2018/2018Week28.md)|[week 29](./2018/2018Week29.md)|[week 30](./2018/2018Week30.md)|
+|August|[week 31](./2018/2018Week31.md)||||
