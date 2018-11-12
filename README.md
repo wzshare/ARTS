@@ -14,4 +14,4 @@
 |August|[week 31](./2018/2018Week31.md)|[week 32](./2018/2018Week32.md)|[week 33](./2018/2018Week33.md)|[week 34](./2018/2018Week34.md)|[week 35](./2018/2018Week35.md)|
 |September|[week 36](./2018/2018Week36.md)|[week 37](./2018/2018Week37.md)|[week 38](./2018/2018Week38.md)|[week 39](./2018/2018Week39.md)|
 |October|[week 40](./2018/2018Week40.md)|[week 41](./2018/2018Week41.md)|[week 42](./2018/2018Week42.md)|[week 43](./2018/2018Week43.md)||
-|November|[week 44](./2018/2018Week44.md)|[week 45](./2018/2018Week45.md)| | ||
+|November|[week 44](./2018/2018Week44.md)|[week 45](./2018/2018Week45.md)|[week 46](./2018/2018Week46.md)| ||
