@@ -15,4 +15,4 @@
 |September|[week 36](./2018/2018Week36.md)|[week 37](./2018/2018Week37.md)|[week 38](./2018/2018Week38.md)|[week 39](./2018/2018Week39.md)|
 |October|[week 40](./2018/2018Week40.md)|[week 41](./2018/2018Week41.md)|[week 42](./2018/2018Week42.md)|[week 43](./2018/2018Week43.md)||
 |November|[week 44](./2018/2018Week44.md)|[week 45](./2018/2018Week45.md)|[week 46](./2018/2018Week46.md)|[week 47](./2018/2018Week47.md)|[week 48](./2018/2018Week48.md)|
-|December|[week 49](./2018/2018Week49.md)|[week 50](./2018/2018Week50.md)|[week 51](./2018/2018Week51.md)||
+|December|[week 49](./2018/2018Week49.md)|[week 50](./2018/2018Week50.md)|[week 51](./2018/2018Week51.md)|[week 52](./2018/2018Week52.md)|
