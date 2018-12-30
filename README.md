@@ -7,6 +7,7 @@
 
 # Colletion
 
+## 2018
 |Month||||||
 |:---:|-|-|-|-|-|
 |June||[week 24](./2018/2018Week24.md)|[week 25](./2018/2018Week25.md)|[week 26](./2018/2018Week26.md)|
@@ -16,3 +17,8 @@
 |October|[week 40](./2018/2018Week40.md)|[week 41](./2018/2018Week41.md)|[week 42](./2018/2018Week42.md)|[week 43](./2018/2018Week43.md)||
 |November|[week 44](./2018/2018Week44.md)|[week 45](./2018/2018Week45.md)|[week 46](./2018/2018Week46.md)|[week 47](./2018/2018Week47.md)|[week 48](./2018/2018Week48.md)|
 |December|[week 49](./2018/2018Week49.md)|[week 50](./2018/2018Week50.md)|[week 51](./2018/2018Week51.md)|[week 52](./2018/2018Week52.md)|
+
+## 2019
+|Month||||||
+|:---:|-|-|-|-|-|
+|January|[week 01](./2019/2019Week01.md)||||
